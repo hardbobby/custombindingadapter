@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginEndImage">15dp</dimen>
+    <dimen name="marginCard">5dp</dimen>
+    <dimen name="paddingCard">10dp</dimen>
+    <dimen name="imageSize">75dp</dimen>
+    <dimen name="cardAtt">3dp</dimen>
+
+
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewDataBinding</string>
+    <string name="done_visit">DONE</string>
+    <string name="notdone_visit">NOT YET</string>
+</resources>
